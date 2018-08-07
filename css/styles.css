@@ -1,0 +1,11 @@
+#walrus-showing {
+  display: none;
+}
+.clickable, .fadeclick {
+  cursos:pointer;
+  color:#0088cc;}
+
+.clickable:hover, .fadeclick:hover{
+    text-decoration: underline;
+  }
+}
